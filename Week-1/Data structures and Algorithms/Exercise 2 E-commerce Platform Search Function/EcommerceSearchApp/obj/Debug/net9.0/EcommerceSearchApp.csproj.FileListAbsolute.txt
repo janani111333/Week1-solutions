@@ -1,0 +1,14 @@
+C:\Users\jamak\EcommerceSearchApp\bin\Debug\net9.0\EcommerceSearchApp.exe
+C:\Users\jamak\EcommerceSearchApp\bin\Debug\net9.0\EcommerceSearchApp.deps.json
+C:\Users\jamak\EcommerceSearchApp\bin\Debug\net9.0\EcommerceSearchApp.runtimeconfig.json
+C:\Users\jamak\EcommerceSearchApp\bin\Debug\net9.0\EcommerceSearchApp.dll
+C:\Users\jamak\EcommerceSearchApp\bin\Debug\net9.0\EcommerceSearchApp.pdb
+C:\Users\jamak\EcommerceSearchApp\obj\Debug\net9.0\EcommerceSearchApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamak\EcommerceSearchApp\obj\Debug\net9.0\EcommerceSearchApp.AssemblyInfoInputs.cache
+C:\Users\jamak\EcommerceSearchApp\obj\Debug\net9.0\EcommerceSearchApp.AssemblyInfo.cs
+C:\Users\jamak\EcommerceSearchApp\obj\Debug\net9.0\EcommerceSearchApp.csproj.CoreCompileInputs.cache
+C:\Users\jamak\EcommerceSearchApp\obj\Debug\net9.0\EcommerceSearchApp.dll
+C:\Users\jamak\EcommerceSearchApp\obj\Debug\net9.0\refint\EcommerceSearchApp.dll
+C:\Users\jamak\EcommerceSearchApp\obj\Debug\net9.0\EcommerceSearchApp.pdb
+C:\Users\jamak\EcommerceSearchApp\obj\Debug\net9.0\EcommerceSearchApp.genruntimeconfig.cache
+C:\Users\jamak\EcommerceSearchApp\obj\Debug\net9.0\ref\EcommerceSearchApp.dll
