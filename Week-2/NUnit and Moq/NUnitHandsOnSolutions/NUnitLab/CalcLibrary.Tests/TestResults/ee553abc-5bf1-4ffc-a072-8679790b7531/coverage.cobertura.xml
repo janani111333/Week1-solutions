@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="utf-8"?>
+<coverage line-rate="1" branch-rate="0.9534" version="1.9" timestamp="1751211593" lines-covered="92" lines-valid="92" branches-covered="82" branches-valid="86">
+  <sources>
+    <source>C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\</source>
+  </sources>
+  <packages>
+    <package name="AccountsManagerLib" line-rate="1" branch-rate="0.875" complexity="9">
+      <classes>
+        <class name="AccountsManagerLib.LoginManager" filename="AccountsManagerLib\LoginManager.cs" line-rate="1" branch-rate="0.875" complexity="9">
+          <methods>
+            <method name="Login" signature="(System.String,System.String)" line-rate="1" branch-rate="0.875" complexity="8">
+              <lines>
+                <line number="12" hits="5" branch="False" />
+                <line number="13" hits="5" branch="True" condition-coverage="100% (4/4)">
+                  <conditions>
+                    <condition number="7" type="jump" coverage="100%" />
+                    <condition number="20" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="14" hits="2" branch="False" />
+                <line number="16" hits="3" branch="True" condition-coverage="75% (3/4)">
+                  <conditions>
+                    <condition number="45" type="jump" coverage="50%" />
+                    <condition number="70" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="17" hits="2" branch="False" />
+                <line number="19" hits="1" branch="False" />
+                <line number="20" hits="3" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="5" hits="5" branch="False" />
+                <line number="6" hits="5" branch="False" />
+                <line number="7" hits="5" branch="False" />
+                <line number="8" hits="5" branch="False" />
+                <line number="9" hits="5" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="12" hits="5" branch="False" />
+            <line number="13" hits="5" branch="True" condition-coverage="100% (4/4)">
+              <conditions>
+                <condition number="7" type="jump" coverage="100%" />
+                <condition number="20" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="14" hits="2" branch="False" />
+            <line number="16" hits="3" branch="True" condition-coverage="75% (3/4)">
+              <conditions>
+                <condition number="45" type="jump" coverage="50%" />
+                <condition number="70" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="17" hits="2" branch="False" />
+            <line number="19" hits="1" branch="False" />
+            <line number="20" hits="3" branch="False" />
+            <line number="5" hits="5" branch="False" />
+            <line number="6" hits="5" branch="False" />
+            <line number="7" hits="5" branch="False" />
+            <line number="8" hits="5" branch="False" />
+            <line number="9" hits="5" branch="False" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="CalcLibrary" line-rate="1" branch-rate="1" complexity="9">
+      <classes>
+        <class name="CalcLibrary.Calculator" filename="CalcLibrary\Calculator.cs" line-rate="1" branch-rate="1" complexity="9">
+          <methods>
+            <method name="Add" signature="(System.Int32,System.Int32)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="7" hits="3" branch="False" />
+              </lines>
+            </method>
+            <method name="Subtract" signature="(System.Int32,System.Int32)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="9" hits="2" branch="False" />
+              </lines>
+            </method>
+            <method name="Multiply" signature="(System.Int32,System.Int32)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="2" branch="False" />
+              </lines>
+            </method>
+            <method name="Divide" signature="(System.Int32,System.Int32)" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="14" hits="3" branch="False" />
+                <line number="15" hits="3" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="7" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="16" hits="1" branch="False" />
+                <line number="18" hits="2" branch="False" />
+                <line number="19" hits="2" branch="False" />
+              </lines>
+            </method>
+            <method name="AllClear" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="22" hits="1" branch="False" />
+                <line number="23" hits="1" branch="False" />
+                <line number="24" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="get_GetResult" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="26" hits="2" branch="False" />
+              </lines>
+            </method>
+            <method name="AddToResult" signature="(System.Int32,System.Int32)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="29" hits="1" branch="False" />
+                <line number="30" hits="1" branch="False" />
+                <line number="31" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="5" hits="11" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="7" hits="3" branch="False" />
+            <line number="9" hits="2" branch="False" />
+            <line number="11" hits="2" branch="False" />
+            <line number="14" hits="3" branch="False" />
+            <line number="15" hits="3" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="7" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="16" hits="1" branch="False" />
+            <line number="18" hits="2" branch="False" />
+            <line number="19" hits="2" branch="False" />
+            <line number="22" hits="1" branch="False" />
+            <line number="23" hits="1" branch="False" />
+            <line number="24" hits="1" branch="False" />
+            <line number="26" hits="2" branch="False" />
+            <line number="29" hits="1" branch="False" />
+            <line number="30" hits="1" branch="False" />
+            <line number="31" hits="1" branch="False" />
+            <line number="5" hits="11" branch="False" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="CollectionsLib" line-rate="1" branch-rate="0.5" complexity="7">
+      <classes>
+        <class name="CollectionsLib.Employee" filename="CollectionsLib\Employee.cs" line-rate="1" branch-rate="0.5" complexity="5">
+          <methods>
+            <method name="get_Id" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="5" hits="31" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Name" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="6" hits="30" branch="False" />
+              </lines>
+            </method>
+            <method name="Equals" signature="(System.Object)" line-rate="1" branch-rate="0.5" complexity="2">
+              <lines>
+                <line number="9" hits="6" branch="False" />
+                <line number="10" hits="6" branch="True" condition-coverage="50% (1/2)">
+                  <conditions>
+                    <condition number="9" type="jump" coverage="50%" />
+                  </conditions>
+                </line>
+                <line number="11" hits="6" branch="False" />
+              </lines>
+            </method>
+            <method name="GetHashCode" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="14" hits="3" branch="False" />
+                <line number="15" hits="3" branch="False" />
+                <line number="16" hits="3" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="5" hits="31" branch="False" />
+            <line number="6" hits="30" branch="False" />
+            <line number="9" hits="6" branch="False" />
+            <line number="10" hits="6" branch="True" condition-coverage="50% (1/2)">
+              <conditions>
+                <condition number="9" type="jump" coverage="50%" />
+              </conditions>
+            </line>
+            <line number="11" hits="6" branch="False" />
+            <line number="14" hits="3" branch="False" />
+            <line number="15" hits="3" branch="False" />
+            <line number="16" hits="3" branch="False" />
+          </lines>
+        </class>
+        <class name="CollectionsLib.EmployeeManager" filename="CollectionsLib\EmployeeManager.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="GetEmployees" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="6" hits="4" branch="False" />
+                <line number="7" hits="4" branch="False" />
+                <line number="8" hits="4" branch="False" />
+                <line number="9" hits="4" branch="False" />
+                <line number="10" hits="4" branch="False" />
+                <line number="11" hits="4" branch="False" />
+                <line number="12" hits="4" branch="False" />
+                <line number="13" hits="4" branch="False" />
+              </lines>
+            </method>
+            <method name="GetEmployeesWhoJoinedInPreviousYears" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="16" hits="1" branch="False" />
+                <line number="17" hits="1" branch="False" />
+                <line number="18" hits="1" branch="False" />
+                <line number="19" hits="1" branch="False" />
+                <line number="20" hits="1" branch="False" />
+                <line number="21" hits="1" branch="False" />
+                <line number="22" hits="1" branch="False" />
+                <line number="23" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="6" hits="4" branch="False" />
+            <line number="7" hits="4" branch="False" />
+            <line number="8" hits="4" branch="False" />
+            <line number="9" hits="4" branch="False" />
+            <line number="10" hits="4" branch="False" />
+            <line number="11" hits="4" branch="False" />
+            <line number="12" hits="4" branch="False" />
+            <line number="13" hits="4" branch="False" />
+            <line number="16" hits="1" branch="False" />
+            <line number="17" hits="1" branch="False" />
+            <line number="18" hits="1" branch="False" />
+            <line number="19" hits="1" branch="False" />
+            <line number="20" hits="1" branch="False" />
+            <line number="21" hits="1" branch="False" />
+            <line number="22" hits="1" branch="False" />
+            <line number="23" hits="1" branch="False" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="ConverterLib" line-rate="1" branch-rate="1" complexity="2">
+      <classes>
+        <class name="ConverterLib.Converter" filename="ConverterLib\Converter.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="USDToEuro" signature="(System.Double)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="2" branch="False" />
+                <line number="14" hits="2" branch="False" />
+                <line number="15" hits="2" branch="False" />
+                <line number="16" hits="2" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(ConverterLib.IDollarToEuroExchangeRateFeed)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="7" hits="2" branch="False" />
+                <line number="8" hits="2" branch="False" />
+                <line number="9" hits="2" branch="False" />
+                <line number="10" hits="2" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="13" hits="2" branch="False" />
+            <line number="14" hits="2" branch="False" />
+            <line number="15" hits="2" branch="False" />
+            <line number="16" hits="2" branch="False" />
+            <line number="7" hits="2" branch="False" />
+            <line number="8" hits="2" branch="False" />
+            <line number="9" hits="2" branch="False" />
+            <line number="10" hits="2" branch="False" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="FourSeasonsLib" line-rate="1" branch-rate="0.9629000000000001" complexity="54">
+      <classes>
+        <class name="FourSeasonsLib.SeasonService" filename="FourSeasonsLib\SeasonService.cs" line-rate="1" branch-rate="0.9629000000000001" complexity="54">
+          <methods>
+            <method name="GetSeason" signature="(System.String)" line-rate="1" branch-rate="0.9629000000000001" complexity="54">
+              <lines>
+                <line number="6" hits="11" branch="False" />
+                <line number="7" hits="11" branch="True" condition-coverage="96.29% (52/54)">
+                  <conditions>
+                    <condition number="23" type="jump" coverage="100%" />
+                    <condition number="31" type="jump" coverage="100%" />
+                    <condition number="39" type="jump" coverage="100%" />
+                    <condition number="52" type="jump" coverage="100%" />
+                    <condition number="81" type="jump" coverage="100%" />
+                    <condition number="94" type="jump" coverage="100%" />
+                    <condition number="120" type="jump" coverage="100%" />
+                    <condition number="128" type="jump" coverage="100%" />
+                    <condition number="141" type="jump" coverage="50%" />
+                    <condition number="170" type="jump" coverage="50%" />
+                    <condition number="180" type="jump" coverage="100%" />
+                    <condition number="107" type="jump" coverage="100%" />
+                    <condition number="190" type="jump" coverage="100%" />
+                    <condition number="154" type="jump" coverage="100%" />
+                    <condition number="65" type="jump" coverage="100%" />
+                    <condition number="208" type="jump" coverage="100%" />
+                    <condition number="229" type="jump" coverage="100%" />
+                    <condition number="250" type="jump" coverage="100%" />
+                    <condition number="271" type="jump" coverage="100%" />
+                    <condition number="292" type="jump" coverage="100%" />
+                    <condition number="310" type="jump" coverage="100%" />
+                    <condition number="328" type="jump" coverage="100%" />
+                    <condition number="343" type="jump" coverage="100%" />
+                    <condition number="358" type="jump" coverage="100%" />
+                    <condition number="373" type="jump" coverage="100%" />
+                    <condition number="388" type="jump" coverage="100%" />
+                    <condition number="403" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="11" hits="2" branch="False" />
+                <line number="16" hits="2" branch="False" />
+                <line number="21" hits="2" branch="False" />
+                <line number="25" hits="2" branch="False" />
+                <line number="29" hits="2" branch="False" />
+                <line number="32" hits="1" branch="False" />
+                <line number="34" hits="11" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="6" hits="11" branch="False" />
+            <line number="7" hits="11" branch="True" condition-coverage="96.29% (52/54)">
+              <conditions>
+                <condition number="23" type="jump" coverage="100%" />
+                <condition number="31" type="jump" coverage="100%" />
+                <condition number="39" type="jump" coverage="100%" />
+                <condition number="52" type="jump" coverage="100%" />
+                <condition number="81" type="jump" coverage="100%" />
+                <condition number="94" type="jump" coverage="100%" />
+                <condition number="120" type="jump" coverage="100%" />
+                <condition number="128" type="jump" coverage="100%" />
+                <condition number="141" type="jump" coverage="50%" />
+                <condition number="170" type="jump" coverage="50%" />
+                <condition number="180" type="jump" coverage="100%" />
+                <condition number="107" type="jump" coverage="100%" />
+                <condition number="190" type="jump" coverage="100%" />
+                <condition number="154" type="jump" coverage="100%" />
+                <condition number="65" type="jump" coverage="100%" />
+                <condition number="208" type="jump" coverage="100%" />
+                <condition number="229" type="jump" coverage="100%" />
+                <condition number="250" type="jump" coverage="100%" />
+                <condition number="271" type="jump" coverage="100%" />
+                <condition number="292" type="jump" coverage="100%" />
+                <condition number="310" type="jump" coverage="100%" />
+                <condition number="328" type="jump" coverage="100%" />
+                <condition number="343" type="jump" coverage="100%" />
+                <condition number="358" type="jump" coverage="100%" />
+                <condition number="373" type="jump" coverage="100%" />
+                <condition number="388" type="jump" coverage="100%" />
+                <condition number="403" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="11" hits="2" branch="False" />
+            <line number="16" hits="2" branch="False" />
+            <line number="21" hits="2" branch="False" />
+            <line number="25" hits="2" branch="False" />
+            <line number="29" hits="2" branch="False" />
+            <line number="32" hits="1" branch="False" />
+            <line number="34" hits="11" branch="False" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="LeapYearCalculatorLib" line-rate="1" branch-rate="1" complexity="10">
+      <classes>
+        <class name="LeapYearCalculatorLib.LeapYearCalculator" filename="LeapYearCalculatorLib\LeapYearCalculator.cs" line-rate="1" branch-rate="1" complexity="10">
+          <methods>
+            <method name="CheckLeapYear" signature="(System.Int32)" line-rate="1" branch-rate="1" complexity="10">
+              <lines>
+                <line number="6" hits="6" branch="False" />
+                <line number="7" hits="6" branch="True" condition-coverage="100% (4/4)">
+                  <conditions>
+                    <condition number="7" type="jump" coverage="100%" />
+                    <condition number="22" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="8" hits="2" branch="False" />
+                <line number="10" hits="4" branch="True" condition-coverage="100% (6/6)">
+                  <conditions>
+                    <condition number="31" type="jump" coverage="100%" />
+                    <condition number="37" type="jump" coverage="100%" />
+                    <condition number="54" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="11" hits="2" branch="False" />
+                <line number="13" hits="2" branch="False" />
+                <line number="14" hits="6" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="6" hits="6" branch="False" />
+            <line number="7" hits="6" branch="True" condition-coverage="100% (4/4)">
+              <conditions>
+                <condition number="7" type="jump" coverage="100%" />
+                <condition number="22" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="8" hits="2" branch="False" />
+            <line number="10" hits="4" branch="True" condition-coverage="100% (6/6)">
+              <conditions>
+                <condition number="31" type="jump" coverage="100%" />
+                <condition number="37" type="jump" coverage="100%" />
+                <condition number="54" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="11" hits="2" branch="False" />
+            <line number="13" hits="2" branch="False" />
+            <line number="14" hits="6" branch="False" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="UserManagerLib" line-rate="1" branch-rate="1" complexity="4">
+      <classes>
+        <class name="UserManagerLib.UserManager" filename="UserManagerLib\UserManager.cs" line-rate="1" branch-rate="1" complexity="4">
+          <methods>
+            <method name="CreateUser" signature="(System.String)" line-rate="1" branch-rate="1" complexity="4">
+              <lines>
+                <line number="6" hits="4" branch="False" />
+                <line number="7" hits="4" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="9" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="8" hits="2" branch="False" />
+                <line number="10" hits="2" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="37" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="11" hits="1" branch="False" />
+                <line number="13" hits="1" branch="False" />
+                <line number="14" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="6" hits="4" branch="False" />
+            <line number="7" hits="4" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="9" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="8" hits="2" branch="False" />
+            <line number="10" hits="2" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="37" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="11" hits="1" branch="False" />
+            <line number="13" hits="1" branch="False" />
+            <line number="14" hits="1" branch="False" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="UtilLib" line-rate="1" branch-rate="1" complexity="6">
+      <classes>
+        <class name="UtilLib.UrlHostNameParser" filename="UtilLib\UrlHostNameParser.cs" line-rate="1" branch-rate="1" complexity="6">
+          <methods>
+            <method name="ParseHostName" signature="(System.String)" line-rate="1" branch-rate="1" complexity="6">
+              <lines>
+                <line number="6" hits="4" branch="False" />
+                <line number="7" hits="4" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="9" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="8" hits="1" branch="False" />
+                <line number="10" hits="3" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="32" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="11" hits="1" branch="False" />
+                <line number="12" hits="2" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="76" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="13" hits="1" branch="False" />
+                <line number="15" hits="1" branch="False" />
+                <line number="16" hits="4" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="6" hits="4" branch="False" />
+            <line number="7" hits="4" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="9" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="8" hits="1" branch="False" />
+            <line number="10" hits="3" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="32" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="11" hits="1" branch="False" />
+            <line number="12" hits="2" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="76" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="13" hits="1" branch="False" />
+            <line number="15" hits="1" branch="False" />
+            <line number="16" hits="4" branch="False" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>

@@ -1,0 +1,11 @@
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\LeapYearCalculatorLib\bin\Debug\net9.0\LeapYearCalculatorLib.deps.json
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\LeapYearCalculatorLib\bin\Debug\net9.0\LeapYearCalculatorLib.dll
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\LeapYearCalculatorLib\bin\Debug\net9.0\LeapYearCalculatorLib.pdb
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\LeapYearCalculatorLib\obj\Debug\net9.0\LeapYearCalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\LeapYearCalculatorLib\obj\Debug\net9.0\LeapYearCalculatorLib.AssemblyInfoInputs.cache
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\LeapYearCalculatorLib\obj\Debug\net9.0\LeapYearCalculatorLib.AssemblyInfo.cs
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\LeapYearCalculatorLib\obj\Debug\net9.0\LeapYearCalculatorLib.csproj.CoreCompileInputs.cache
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\LeapYearCalculatorLib\obj\Debug\net9.0\LeapYearCalculatorLib.dll
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\LeapYearCalculatorLib\obj\Debug\net9.0\refint\LeapYearCalculatorLib.dll
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\LeapYearCalculatorLib\obj\Debug\net9.0\LeapYearCalculatorLib.pdb
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\LeapYearCalculatorLib\obj\Debug\net9.0\ref\LeapYearCalculatorLib.dll
