@@ -1,0 +1,11 @@
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\UserManagerLib\bin\Debug\net9.0\UserManagerLib.deps.json
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\UserManagerLib\bin\Debug\net9.0\UserManagerLib.dll
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\UserManagerLib\bin\Debug\net9.0\UserManagerLib.pdb
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\UserManagerLib\obj\Debug\net9.0\UserManagerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\UserManagerLib\obj\Debug\net9.0\UserManagerLib.AssemblyInfoInputs.cache
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\UserManagerLib\obj\Debug\net9.0\UserManagerLib.AssemblyInfo.cs
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\UserManagerLib\obj\Debug\net9.0\UserManagerLib.csproj.CoreCompileInputs.cache
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\UserManagerLib\obj\Debug\net9.0\UserManagerLib.dll
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\UserManagerLib\obj\Debug\net9.0\refint\UserManagerLib.dll
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\UserManagerLib\obj\Debug\net9.0\UserManagerLib.pdb
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\UserManagerLib\obj\Debug\net9.0\ref\UserManagerLib.dll
