@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "L0TOaVFXpT0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jamak\\Desktop\\Week-5\\WepApi\\2.C Sharp Windows Forms Chat App with Kafka\\KafkaChatGUI\\KafkaChatGUI\\KafkaChatGUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jamak\\.nuget\\packages\\confluent.kafka\\2.11.0\\confluent.kafka.2.11.0.nupkg.sha512",
+    "C:\\Users\\jamak\\.nuget\\packages\\librdkafka.redist\\2.11.0\\librdkafka.redist.2.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}
