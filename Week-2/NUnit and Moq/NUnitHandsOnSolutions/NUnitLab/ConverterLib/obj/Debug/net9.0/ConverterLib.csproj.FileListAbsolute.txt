@@ -1,0 +1,11 @@
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\ConverterLib\bin\Debug\net9.0\ConverterLib.deps.json
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\ConverterLib\bin\Debug\net9.0\ConverterLib.dll
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\ConverterLib\bin\Debug\net9.0\ConverterLib.pdb
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\ConverterLib\obj\Debug\net9.0\ConverterLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\ConverterLib\obj\Debug\net9.0\ConverterLib.AssemblyInfoInputs.cache
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\ConverterLib\obj\Debug\net9.0\ConverterLib.AssemblyInfo.cs
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\ConverterLib\obj\Debug\net9.0\ConverterLib.csproj.CoreCompileInputs.cache
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\ConverterLib\obj\Debug\net9.0\ConverterLib.dll
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\ConverterLib\obj\Debug\net9.0\refint\ConverterLib.dll
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\ConverterLib\obj\Debug\net9.0\ConverterLib.pdb
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\ConverterLib\obj\Debug\net9.0\ref\ConverterLib.dll

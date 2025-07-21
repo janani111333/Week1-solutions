@@ -1,0 +1,11 @@
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\CalcLibrary\bin\Debug\net9.0\CalcLibrary.deps.json
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\CalcLibrary\bin\Debug\net9.0\CalcLibrary.dll
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\CalcLibrary\bin\Debug\net9.0\CalcLibrary.pdb
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\CalcLibrary\obj\Debug\net9.0\CalcLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\CalcLibrary\obj\Debug\net9.0\CalcLibrary.AssemblyInfoInputs.cache
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\CalcLibrary\obj\Debug\net9.0\CalcLibrary.AssemblyInfo.cs
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\CalcLibrary\obj\Debug\net9.0\CalcLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\CalcLibrary\obj\Debug\net9.0\CalcLibrary.dll
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\CalcLibrary\obj\Debug\net9.0\refint\CalcLibrary.dll
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\CalcLibrary\obj\Debug\net9.0\CalcLibrary.pdb
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\CalcLibrary\obj\Debug\net9.0\ref\CalcLibrary.dll

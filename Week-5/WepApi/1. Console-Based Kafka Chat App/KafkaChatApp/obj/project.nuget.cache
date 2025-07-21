@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pj8BXb6wWho=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jamak\\Desktop\\Week-5\\WepApi\\1. Console-Based Kafka Chat App\\KafkaChatApp\\KafkaChatApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jamak\\.nuget\\packages\\confluent.kafka\\2.1.0\\confluent.kafka.2.1.0.nupkg.sha512",
+    "C:\\Users\\jamak\\.nuget\\packages\\librdkafka.redist\\2.1.0\\librdkafka.redist.2.1.0.nupkg.sha512",
+    "C:\\Users\\jamak\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

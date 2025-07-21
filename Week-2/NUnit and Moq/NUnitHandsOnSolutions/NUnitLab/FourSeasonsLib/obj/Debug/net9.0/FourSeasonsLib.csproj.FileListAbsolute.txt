@@ -1,0 +1,11 @@
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\FourSeasonsLib\bin\Debug\net9.0\FourSeasonsLib.deps.json
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\FourSeasonsLib\bin\Debug\net9.0\FourSeasonsLib.dll
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\FourSeasonsLib\bin\Debug\net9.0\FourSeasonsLib.pdb
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\FourSeasonsLib\obj\Debug\net9.0\FourSeasonsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\FourSeasonsLib\obj\Debug\net9.0\FourSeasonsLib.AssemblyInfoInputs.cache
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\FourSeasonsLib\obj\Debug\net9.0\FourSeasonsLib.AssemblyInfo.cs
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\FourSeasonsLib\obj\Debug\net9.0\FourSeasonsLib.csproj.CoreCompileInputs.cache
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\FourSeasonsLib\obj\Debug\net9.0\FourSeasonsLib.dll
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\FourSeasonsLib\obj\Debug\net9.0\refint\FourSeasonsLib.dll
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\FourSeasonsLib\obj\Debug\net9.0\FourSeasonsLib.pdb
+C:\Users\jamak\Desktop\Week-2\NUnit and Moq\NUnitHandsOnSolutions\NUnitLab\FourSeasonsLib\obj\Debug\net9.0\ref\FourSeasonsLib.dll
