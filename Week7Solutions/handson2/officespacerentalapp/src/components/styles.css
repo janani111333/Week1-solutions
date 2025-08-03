@@ -1,0 +1,15 @@
+.textRed {
+  color: red;
+  font-weight: bold;
+}
+
+.textGreen {
+  color: green;
+  font-weight: bold;
+}
+
+.office-container {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid lightgray;
+}
